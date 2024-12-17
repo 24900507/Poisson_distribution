@@ -3,7 +3,7 @@
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
-# Date :
+# Date : 22.10.2024
 
 # Software required :  
 
